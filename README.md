@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Hà Bảo Ngọc  
 
-<!--
-**hbnnnnnnn/hbnnnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year student at **University of Science, VNU-HCM**.  
+I’m still exploring different fields in technology, from frontend and backend development to data and AI.  
+I enjoy working on projects that help me discover what I want to specialize in.  
 
-Here are some ideas to get you started:
+📫 Reach me at: [Email](mailto:habaongoc.work@gmail.com) | [LinkedIn](https://www.linkedin.com/in/b%E1%BA%A3o-ng%E1%BB%8Dc-h%C3%A0-694b12363/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![Ngọc's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbnnnnnnn&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbnnnnnnn&layout=compact&theme=radical)
+
+---
+
+## 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=hbnnnnnnn&theme=onedark)
+
+---
+
+⭐ From [hbnnnnnnn](https://github.com/hbnnnnnnn)
